@@ -15,10 +15,9 @@
 ## 建议模型
 
 这是一个语义分割问题，如果你不知道如何去构建你的模型，可以尝试以下的模型：
-UNET: http://www.arxiv.org/pdf/1505.04597.pdf https://blog.csdn.net/u012931582/article/details/70215756
-PSPNET: https://arxiv.org/pdf/1612.01105.pdf https://blog.csdn.net/u011974639/article/details/78985130
-DEEPLAB: https://arxiv.org/abs/1706.05587 https://arxiv.org/abs/1706.05587
-* 
+* UNET: http://www.arxiv.org/pdf/1505.04597.pdf https://blog.csdn.net/u012931582/article/details/70215756
+* PSPNET: https://arxiv.org/pdf/1612.01105.pdf https://blog.csdn.net/u011974639/article/details/78985130
+* DEEPLAB: https://arxiv.org/abs/1706.05587 https://arxiv.org/abs/1706.05587
 
 ## 通关最低要求
 
